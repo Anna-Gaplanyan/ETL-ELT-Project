@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Measurement xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1">
+  <MeasurementID>6405a387-77fb-4208-af7b-95cb6b05e103</MeasurementID>
+  <Date>2020-08-13T08:22:43.5999149-04:00</Date>
+  <Serial>1400L20250</Serial>
+  <UserName>Molly</UserName>
+  <PlateName>2020_08_11 FUS 3 color IC50s</PlateName>
+  <IsTest>false</IsTest>
+  <Experiment Version="1">
+    <InstrumentType>Phenix</InstrumentType>
+    <PlateType Version="1">
+      <ID>384 PerkinElmer CellCarrier Ultra</ID>
+      <Name>384 PerkinElmer CellCarrier Ultra</Name>
+      <Description />
+      <FootPrintWidthX Unit="m">0.12776</FootPrintWidthX>
+      <FootPrintWidthY Unit="m">0.08548</FootPrintWidthY>
+      <StartX Unit="m">0.11563000000000001</StartX>
+      <StartY Unit="m">0.07649</StartY>
+      <EndX Unit="m">0.012130000000000016</EndX>
+      <EndY Unit="m">0.008989999999999998</EndY>
+      <StartCol>1</StartCol>
+      <StartRow>1</StartRow>
+      <EndCol>24</EndCol>
+      <EndRow>16</EndRow>
+      <TopSafePosZ Unit="m">0.01435</TopSafePosZ>
+      <BottomSafePosZ Unit="m">0.00021</BottomSafePosZ>
+      <BottomThickness Unit="m">0.00019</BottomThickness>
+      <RefractiveIndex Unit="">1.53</RefractiveIndex>
+      <WellVolume Unit="l">0.000145</WellVolume>
+      <WellFormTop>Rectangle</WellFormTop>
+      <WellDiameterTop Unit="m">0</WellDiameterTop>
+      <WellWidthXTop Unit="m">0.0037</WellWidthXTop>
+      <WellWidthYTop Unit="m">0.0037</WellWidthYTop>
+      <WellFormBottom>Rectangle</WellFormBottom>
+      <WellDiameterBottom Unit="m">0</WellDiameterBottom>
+      <WellWidthXBottom Unit="m">0.00326</WellWidthXBottom>
+      <WellWidthYBottom Unit="m">0.00326</WellWidthYBottom>
+      <IsSlide>false</IsSlide>
+      <CoverslipThickness Unit="m">0</CoverslipThickness>
+      <CoverslipRefractiveIndex Unit="">1.51</CoverslipRefractiveIndex>
+      <SamplePosition>AboveSlide</SamplePosition>
+    </PlateType>
+  </Experiment>
+</Measurement>
